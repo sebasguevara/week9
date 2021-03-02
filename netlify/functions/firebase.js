@@ -3,13 +3,13 @@ require("firebase/firestore")
 
 const firebaseConfig = {
 
-  apiKey: "AIzaSyAZxejosIl0oH9nPokatwZUzgbpx-xs33M",
-  authDomain: "week9-f0950.firebaseapp.com",
-  projectId: "week9-f0950",
-  storageBucket: "week9-f0950.appspot.com",
-  messagingSenderId: "702039642494",
-  appId: "1:702039642494:web:3c0ae425bd9aaa3750a32f",
-  measurementId: "G-VHSJ8BBYJE"
+  apiKey: "AIzaSyD4zr71QbUFItff9KS7SZqzuho3hohGW3I",
+  authDomain: "week8-class.firebaseapp.com",
+  projectId: "week8-class",
+  storageBucket: "week8-class.appspot.com",
+  messagingSenderId: "643227235121",
+  appId: "1:643227235121:web:89666142a42e0bbd133610",
+  measurementId: "G-J7C9WX8F72"
 } // replace
 
 if (!firebase.apps.length) {
